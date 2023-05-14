@@ -1,4 +1,4 @@
 # test-repo
 # aaa
 # bbb
-# shortcut test
+# shortcut test2
